@@ -15,7 +15,7 @@ int isPrime(int num) {
 
 int main() {
 	int n,b;
-	int a[100];
+	int a[n];
 	int max;
 	int min;
 	int tong;
